@@ -1,4 +1,4 @@
-# Hi all
+# Hi all!
 
 My main specialialties are APIs amd Bot Development, my current projects are:
 
