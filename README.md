@@ -3,7 +3,7 @@
 My main specialialties are APIs amd Bot Development, my current projects are:
 
 - [LG (Liseria Gacha) Discord Bot](https://github.com/Mbrookesy/Liseria-Gacha-Bot)
-- Unnamed Visual Novel
+- Unnamed Android App
 
 My Past Projects:
 
