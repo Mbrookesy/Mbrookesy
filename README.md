@@ -1,9 +1,8 @@
 # Hi all!
 
-My main specialialties are APIs amd Bot Development, my current projects are:
+My main specialities are APIs and Bot Development, my current projects are:
 
-- [LG (Liseria Gacha) Discord Bot](https://github.com/Mbrookesy/Liseria-Gacha-Bot)
-- Unnamed Art Commission App [Planning Stage]
+- Sonia's Bar Visual Novel [Development Stage]
 
 My Past Projects:
 
@@ -12,7 +11,8 @@ My Past Projects:
 - [Posinym Dictionary API](https://github.com/Mbrookesy/Posinym-Dictionary-Api)
 - [K0haku Alpha Discord Bot](https://github.com/Mbrookesy/K0haku_Bot)
 - [JQuest Demo](https://github.com/Mbrookesy/JQuest-Demo)
+- [LG (Liseria Gacha) Discord Bot](https://github.com/Mbrookesy/Liseria-Gacha-Bot)
 
-Feel free to approach me anytime, I'm always open for new things!
+Feel free to contact me anytime, I'm always open to new things!
 
 ![This is an image](https://c.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
