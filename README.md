@@ -2,7 +2,7 @@
 
 My main specialities are APIs and Bot Development, my current projects are:
 
-- Sonia's Bar Visual Novel [Development Stage]
+- Assembly Guessing Game [IN DEVELOPMENT]
 
 My Past Projects:
 
