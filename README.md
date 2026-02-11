@@ -16,4 +16,3 @@ My Past Projects:
 Feel free to contact me anytime, I'm always open to new things!!
 
 [This is an image](https://c.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
-0 commit commentsComments0
