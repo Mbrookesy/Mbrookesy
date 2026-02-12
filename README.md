@@ -1,7 +1,7 @@
 # Hi all!
 My main specialities are APIs and Bot Development, my current projects are:
 
-- Fürball chat app [IN DEVELOPMENT]
+- Furbäll chat app [IN DEVELOPMENT]
 
 My Past Projects:
 - [Pokemon Stat Visualiser Frontend](https://github.com/Mbrookesy/pokemon-stat-visualiser-frontend)
