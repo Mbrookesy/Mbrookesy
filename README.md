@@ -2,6 +2,7 @@
 My main specialities are APIs and Bot Development, my current projects are:
 
 - Furbäll chat app [IN DEVELOPMENT]
+- MeiMei Bank app [IN DEVELOPMENT]
 
 My Past Projects:
 - [Pokemon Stat Visualiser Frontend](https://github.com/Mbrookesy/pokemon-stat-visualiser-frontend)
